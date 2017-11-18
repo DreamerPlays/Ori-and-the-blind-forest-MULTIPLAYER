@@ -1,7 +1,7 @@
 # Ori-and-the-blind-forest-MULTIPLAYER
-Ori and the blind forest MULITPLAYER (NOT THE DEFINITIVE EDITION)
+Ori and the blind forest MULITPLAYER
 
-First "functioning" version almost but need to find a way to implement it easy, not like now(extremly messy)
+First "functioning" version in eyesight but need to find a way to implement it easy, not like now(extremly messy)
 Then you can play this beatiful game with your friends!
 
 
