@@ -1,0 +1,9 @@
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\bin\Release\OriMultiplayerPatcher.exe.config
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\bin\Release\OriMultiplayerPatcher.exe
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\bin\Release\OriMultiplayerPatcher.pdb
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\obj\Release\OriMultiplayerPatcher.Form1.resources
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\obj\Release\OriMultiplayerPatcher.Properties.Resources.resources
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\obj\Release\OriMultiplayerPatcher.csproj.GenerateResource.Cache
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\obj\Release\OriMultiplayerPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\obj\Release\OriMultiplayerPatcher.exe
+C:\Users\Luca\source\repos\OriMultiplayerPatcher\OriMultiplayerPatcher\obj\Release\OriMultiplayerPatcher.pdb
